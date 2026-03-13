@@ -63,4 +63,7 @@ Total number of modes = V2 / 2 = 4.912 / 2
 
 ---
 ## Tabulation
+![WhatsApp Image 2026-03-13 at 2 11 57 PM](https://github.com/user-attachments/assets/642155a8-a625-4610-90ad-44ae80796a9f)
+
 ## Result
+The mode characteristics and lower order Linearly Polarized (LP) modes were studied successfully.
