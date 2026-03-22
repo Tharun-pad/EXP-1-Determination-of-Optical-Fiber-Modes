@@ -47,8 +47,8 @@ From fig. shows only 4 LP modes propagates.
 Total number of modes = V2 / 2 = 4.912 / 2
 <img width="932" height="1015" alt="image" src="https://github.com/user-attachments/assets/09f47716-8ad0-42f6-a2d1-a9afa7590b4f" />
 
-## Tabulation
-![WhatsApp Image 2026-03-13 at 2 11 57 PM](https://github.com/user-attachments/assets/642155a8-a625-4610-90ad-44ae80796a9f)
+
+![WhatsApp Image 2026-03-13 at 2 11 57 PM](https://github.com/user-attachments/assets/ec339c73-209e-4f28-9dd7-bc08a24e66e4)
 
 ## Result
 The mode characteristics and lower order Linearly Polarized (LP) modes were studied successfully.
