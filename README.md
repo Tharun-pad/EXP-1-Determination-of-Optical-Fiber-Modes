@@ -40,9 +40,6 @@ coupling lens assembly by adjusting the vertical and horizontal travel arrangeme
 9.	Observe the bright round shape circular spot with laser speckle pattern on to the screen. Multimode pattern can be refined by screws provided with laser-fiber coupler. Slightly adjusting or moving the screws on the laser mount, view the change in pattern of this multimode spot. After observing the multimode pattern, change multimode fiber optic patch cord with single mode fiber patch cord.
 10.	For single mode patch cord, the blur pattern of the various single mode patterns will appear on the screen. That is, single circular two lobes, three lobes and four lobes patterns can be very well observed by slightly adjusting the Allen screws of the laser-fiber coupler.
 
----
-
-
 ## 📊 OBSERVATION AND CALCULATION 
 Parameter of given fiber are,
 A = 4.5μm (core radius), N.A = 0.11, λ = 633nm V = 2 π x A x N.A / λ = 4.91
