@@ -1,10 +1,7 @@
-
 # Exp 1 Mode Characteristics of Fiber Optic Cable
 
 ## 🎯 AIM
 To study the mode characteristics of fiber optic cable and observe the lower order Linearly Polarized (LP) modes.
-
----
 
 ## 🧰 EQUIPMENTS REQUIRED
 1. LASER Source (633 nm – 1mW)  
@@ -12,9 +9,6 @@ To study the mode characteristics of fiber optic cable and observe the lower ord
 3. Single Mode Fiber  
 4. Fiber Holding Stand  
 5. Opaque Screen  
-
----
-
 
 ## 📚 THEORY
 
@@ -30,8 +24,6 @@ The number of modes propagating through the fiber depends on V-number. If the fi
 A Multimode fiber, V-number is slightly greater than 2.045 but the number of allowed modes is small enough that they may be individually identified when the output of the fiber is examined.
 When V < 2.045, then only a single mode may propagate in the fiber waveguide. This mode is HE11 mode or LP01 – Linearly Polarized mode.
 When V > 2.045, other modes may propagate, when V is slightly greater than 2.045 i.e. V = 4.91 then 4 Linearly Polarized modes will propagate through fiber.
-
----
 
 ## 🧪 PROCEDURE
 
@@ -51,17 +43,13 @@ coupling lens assembly by adjusting the vertical and horizontal travel arrangeme
 ---
 
 
-## 📊 OBSERVATION AND CALCULATION
-
-- 
+## 📊 OBSERVATION AND CALCULATION 
 Parameter of given fiber are,
 A = 4.5μm (core radius), N.A = 0.11, λ = 633nm V = 2 π x A x N.A / λ = 4.91
 From fig. shows only 4 LP modes propagates.
 Total number of modes = V2 / 2 = 4.912 / 2
 <img width="932" height="1015" alt="image" src="https://github.com/user-attachments/assets/09f47716-8ad0-42f6-a2d1-a9afa7590b4f" />
 
-
----
 ## Tabulation
 ![WhatsApp Image 2026-03-13 at 2 11 57 PM](https://github.com/user-attachments/assets/642155a8-a625-4610-90ad-44ae80796a9f)
 
